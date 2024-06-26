@@ -1,4 +1,4 @@
-# AstroNvim Custom
+# My AstroNvim Custom
 
 **NOTE:** This is for AstroNvim v4+
 
@@ -24,7 +24,7 @@ You can also just clone this repository directly if you do not want to track you
 #### Clone the repository
 
 ```shell
-git clone https://github.com/pondparinya/AstroNvim-custom ~/.config/nvim
+git clone https://github.com/pondparinya/my-AstroNvim ~/.config/nvim
 ```
 
 #### Start Neovim
